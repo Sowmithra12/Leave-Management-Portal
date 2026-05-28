@@ -63,3 +63,24 @@ using Live Server.
 
 * Username: admin
 * Password: 123
+
+## Setup Instructions
+
+### Backend
+
+```bash
+cd backend
+dotnet restore
+dotnet run
+```
+
+### Frontend
+
+Open `frontend/index.html` using Live Server.
+
+### Requirements
+
+* .NET SDK
+* VS Code
+* Live Server Extension
+
